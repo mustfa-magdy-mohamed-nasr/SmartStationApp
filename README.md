@@ -27,5 +27,5 @@
 
 Clone the repository
 ```shell
-git clone 
+git clone https://github.com/ebrahim969/SmartStationApp
 ```
